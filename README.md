@@ -1,3 +1,3 @@
-# 멋쟁이 사자처럼 8기 6주차 과제 Word Count
+# LikeLion8_Week6_Assignment_WordCount
  
- Word Count Assignment
+ 멋쟁이사자처럼 6주차과제 워드 카운트
